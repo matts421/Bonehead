@@ -42,7 +42,6 @@ All available commands are visible via typing `!help` in any channel that Bonehe
 ### _Statistics & Economy_
 
 - **Player Card**
-
   - Displays a player-card embed that depicts the amount of currency and win-loss ratio on Hangman.
 
 - **Leaderboard**
