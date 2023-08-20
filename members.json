@@ -1,0 +1,77 @@
+[
+  {
+    "nick": "Attila",
+    "unique_id": 184453911980015616,
+    "wins": 3,
+    "losses": 8,
+    "avatar_url": "https://cdn.discordapp.com/avatars/184453911980015616/a_bf506c53dd98fe90bb27211f45ab1374.gif?size=1024",
+    "colour": [
+      65,
+      0,
+      255
+    ],
+    "wallet": {
+      "money": 0
+    }
+  },
+  {
+    "nick": "zack",
+    "unique_id": 230826525732241409,
+    "wins": 87,
+    "losses": 57,
+    "avatar_url": "https://cdn.discordapp.com/avatars/230826525732241409/1425a944865a8e12baa081eab936c467.png?size=1024",
+    "colour": [
+      0,
+      85,
+      255
+    ],
+    "wallet": {
+      "money": 0.0
+    }
+  },
+  {
+    "nick": "matthew",
+    "unique_id": 235962572912721922,
+    "wins": 168,
+    "losses": 79,
+    "avatar_url": "https://cdn.discordapp.com/avatars/235962572912721922/bdf7aa98893d4621aa447430ee6541a8.png?size=1024",
+    "colour": [
+      255,
+      0,
+      167
+    ],
+    "wallet": {
+      "money": 6390.833333333334
+    }
+  },
+  {
+    "nick": "kyle",
+    "unique_id": 237764884127940618,
+    "wins": 14,
+    "losses": 11,
+    "avatar_url": "https://cdn.discordapp.com/avatars/237764884127940618/d4f0cc02094cfb51aa838784ee8a627b.png?size=1024",
+    "colour": [
+      0,
+      61,
+      255
+    ],
+    "wallet": {
+      "money": 881.6666666666666
+    }
+  },
+  {
+    "nick": "roland",
+    "unique_id": 244288039378092032,
+    "wins": 76,
+    "losses": 26,
+    "avatar_url": "https://cdn.discordapp.com/avatars/244288039378092032/2746be9d7119116b689e7546b84ed079.png?size=1024",
+    "colour": [
+      255,
+      218,
+      0
+    ],
+    "wallet": {
+      "money": 3660.0
+    }
+  }
+]
