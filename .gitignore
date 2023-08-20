@@ -224,7 +224,6 @@ lavalink/
 testing/
 cogs/shenanigans.py
 letter_frequency.json
-avatar.png
 avatar2.png
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,python,visualstudiocode
